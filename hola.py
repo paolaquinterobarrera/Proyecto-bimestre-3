@@ -1,6 +1,6 @@
 print("hola mundo")
 
-list1=["h","o","l","a"," ","m","u","n","d","o"]
+list1=["h","o","l","a"," ","p","r","o","f","e"]
 
 for i in list1:
  print(i)
